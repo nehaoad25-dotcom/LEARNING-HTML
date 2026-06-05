@@ -1,0 +1,28 @@
+collection of web pages is called website 
+
+colletion of information is called web pages
+
+browser is a client site and server is a server site 
+
+server:- server provide a domain like url and hosting store whole website code
+  front end :- jaha per user interact hota h 
+
+  html:- html language only use for layout and structure
+
+  tags:- tags are reserve keywords 
+  types of tags :- 
+
+  container   -> <tagname>content</tagname>
+  non container -> <tagname> isme closing tag nahi hota h
+
+  list:- when our data is sequential is called list 
+  there are two type of list
+  1. orderd list 
+  2.unorderd list 
+
+  atributes:- additional property of tags is called attributes
+  list attributes= type 
+
+  block element:- 100% width occupy karta h jisse humara content ek ke niche ek show krta h
+  inline element:- image or word ke according hight or width occupy krta h
+  img tag attributes= src, hight, width, alt 

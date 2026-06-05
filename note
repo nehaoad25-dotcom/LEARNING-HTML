@@ -26,3 +26,33 @@ server:- server provide a domain like url and hosting store whole website code
   block element:- 100% width occupy karta h jisse humara content ek ke niche ek show krta h
   inline element:- image or word ke according hight or width occupy krta h
   img tag attributes= src, hight, width, alt 
+
+
+  NEHA OAD@Dell MINGW64 ~/Desktop/html
+$ git init
+Initialized empty Git repository in C:/Users/neham/Desktop/html/.git/
+
+NEHA OAD@Dell MINGW64 ~/Desktop/html (master)
+$ git add .
+
+NEHA OAD@Dell MINGW64 ~/Desktop/html (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   Screenshot 2026-05-31 125120.png
+        new file:   first.html
+        new file:   home.html
+        new file:   note
+
+NEHA OAD@Dell MINGW64 ~/Desktop/html (master)
+$ git commit -m "first commit"
+[master (root-commit) 9cdb558] first commit
+ 4 files changed, 76 insertions(+)
+ create mode 100644 Screenshot 2026-05-31 125120.png
+ create mode 100644 first.html
+ create mode 100644 home.html
+ create mode 100644 note

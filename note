@@ -56,3 +56,25 @@ $ git commit -m "first commit"
  create mode 100644 first.html
  create mode 100644 home.html
  create mode 100644 note
+
+
+$ git add .
+
+NEHA OAD@Dell MINGW64 ~/Desktop/html (master)
+$ git commit -m "second commit"
+[master 4864db7] second commit
+ 2 files changed, 41 insertions(+)
+ create mode 100644 demo.html
+
+NEHA OAD@Dell MINGW64 ~/Desktop/html (master)
+$ git push -u origin master
+Enumerating objects: 6, done.
+Counting objects: 100% (6/6), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (4/4), 857 bytes | 857.00 KiB/s, done.
+Total 4 (delta 2), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/nehaoad25-dotcom/LEARNING-HTML.git
+   9cdb558..4864db7  master -> master
+branch 'master' set up to track 'origin/master'.

@@ -1,0 +1,25 @@
+.container{
+    background-color: tomato;
+    color: white;
+    padding: 30px;
+    margin: 30px;
+    border: 12px dotted black;
+
+}
+.container1{
+    background-color: rgba(0, 0, 0, 0.749);
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    margin: 30px;
+    border-radius: 80px;
+    
+}
+.box{
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+     box-shadow: 2px 4px 9px 3px black; /* x-cess, y-xces, blure, spred, color */
+}
